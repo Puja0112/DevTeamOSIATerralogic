@@ -1,0 +1,13 @@
+Requirement 1:
+1. create table.AccountId pk-,externalProfileid,Providergroupid,createdDate.
+
+
+1. Add new latest method with parameter( AccountInfo accountInfo, string password, string or guid providerGroupID, string externalProfileId)in AccountmanagerController's 
+2. add method in Logic, Persistance classes.
+3. validate email id and password
+
+***** Profile data to be added in table  .
+1.ProfileId, providerGroupID, externalProfileId
+
+
+
